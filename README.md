@@ -14,7 +14,7 @@ npm install
 Go back to the root of the project and install all required python packages using:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 To run the application open two seperate terminals and start the frontend and backend seperately.
@@ -23,7 +23,7 @@ First Terminal:
 
 ```bash
 cd fleet
-python manage.py runserver
+python3 manage.py runserver
 ```
 
 Second Terminal:
@@ -33,7 +33,7 @@ cd my-app
 npm start
 ```
 
-If both run succesfully, go to ```http:\\localhost:3000``` to view the application.
+If both run succesfully, go to ```http://localhost:3000``` to view the application.
 
 # Missing Features
 

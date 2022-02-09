@@ -1,0 +1,18 @@
+.modal-content {
+    padding: 2rem;
+    color: #1b0959;
+}
+
+.button {
+    color: #5f01e4;
+    border-color: #5f01e4;
+}
+
+.button:hover {
+    background-color: #5f01e4;
+}
+
+.formControl {
+    color: #1b0959;
+    border-color: #b4b4c2;
+}
